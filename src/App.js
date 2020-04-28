@@ -16,6 +16,6 @@ function App() {
   )
 }
 
-ddf
+
 export default withAuthenticator(App,
   { includeGreetings: true })
